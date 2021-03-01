@@ -11,6 +11,7 @@
 		3F24B0D325E805AC0057043F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F24B0D225E805AC0057043F /* ContentView.swift */; };
 		3F24B0D525E805B40057043F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F24B0D425E805B40057043F /* Assets.xcassets */; };
 		3F24B0D825E805B40057043F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F24B0D725E805B40057043F /* Preview Assets.xcassets */; };
+		3F24B0E125E807C10057043F /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F24B0E025E807C10057043F /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F24B0D425E805B40057043F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F24B0D725E805B40057043F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F24B0D925E805B40057043F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F24B0E025E807C10057043F /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3F24B0D225E805AC0057043F /* ContentView.swift */,
 				3F24B0D425E805B40057043F /* Assets.xcassets */,
 				3F24B0D925E805B40057043F /* Info.plist */,
+				3F24B0E025E807C10057043F /* SwiftyJSON.swift */,
 				3F24B0D625E805B40057043F /* Preview Content */,
 			);
 			path = "Dad Jokes";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F24B0E125E807C10057043F /* SwiftyJSON.swift in Sources */,
 				3F24B0D325E805AC0057043F /* ContentView.swift in Sources */,
 				3F24B0D125E805AC0057043F /* Dad_JokesApp.swift in Sources */,
 			);
